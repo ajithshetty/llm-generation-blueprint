@@ -4,9 +4,9 @@ An interactive explainer for **repetition penalty**, **max tokens**, and **stop 
 
 Part of the [Blueprint](https://ajithshetty.github.io/scd-blueprint/) series of data/ML engineering explainers. Companion to [`generation-blueprint`](https://github.com/ajithshetty/llm-generation-blueprint) (temperature / top-k / top-p).
 
-**[Live demo →](#)** <!-- replace with your GitHub Pages URL after deploy -->
+**[Live demo →](https://ajithshetty.github.io/llm-generation-blueprint/)**
 
-![Generation Blueprint preview](#) <!-- optional: add a screenshot -->
+![Generation Blueprint preview](image.png)
 
 ## What it does
 
@@ -22,8 +22,8 @@ A "last step" panel shows the top candidates competing at each point, and the ou
 ## Quickstart
 
 ```bash
-git clone https://github.com/ajithshetty/generation-blueprint.git
-cd generation-blueprint
+git clone https://github.com/ajithshetty/llm-generation-blueprint.git
+cd llm-generation-blueprint
 npm install
 npm run dev
 ```
@@ -58,6 +58,4 @@ The mechanics follow the primary references, not folk knowledge:
 
 - [`llm-sampling-blueprint`](https://github.com/ajithshetty/llm-sampling-blueprint) — the single-step distribution explorer for temperature, top-k, and top-p
 
-## License
-
-MIT
+## Built with love from Claude and Cursor
