@@ -22,8 +22,8 @@ A "last step" panel shows the top candidates competing at each point, and the ou
 ## Quickstart
 
 ```bash
-git clone https://github.com/ajithshetty/generation-blueprint.git
-cd generation-blueprint
+git clone https://github.com/ajithshetty/llm-generation-blueprint.git
+cd llm-generation-blueprint
 npm install
 npm run dev
 ```
